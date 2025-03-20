@@ -1,4 +1,4 @@
-# e-Reader-auto-daily-news
+# 📖☕e-Reader-auto-daily-news☕📖
 A small project to automate how you can retrieve free and legal daily news fresh-off-the-press to read every morning on your e-reader while you drink your coffee.
 
 This project automates the process of fetching news articles from various sources and syncing them to Dropbox, specifically for use with a **Kobo** eReader. 
